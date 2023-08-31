@@ -1,0 +1,41 @@
+.myBG {
+    height: 100vh;
+    background: url(/src/Assets/Images/bg/oie_29155636f1SKHlBg.jpg);
+    background-size:cover
+}
+ 
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px rgb(252, 252, 252);
+    letter-spacing: 4px;
+}
+
+.trending {
+    height: auto;
+    background: url(/src/Assets/Images/trending/dcl-650-Bx5-8M-y0sI-unsplash.jpg);
+    background-size:cover
+}
+
+.superhero {
+    height: auto;
+    background: url(/src/Assets/Images/trending/dcl-650-Bx5-8M-y0sI-unsplash.jpg);
+    background-size:cover
+}
+
+.movieWrapper{
+    
+}
+
+.movieImage {
+   height: 300px;
+   display: inline;
+}
